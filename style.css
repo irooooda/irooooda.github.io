@@ -1,0 +1,104 @@
+body {
+	font-family: Cooper Black;
+	font-size: 18pt;
+	background: url(bg1.jpg);
+	background-size: cover;
+  }
+  h1 {
+	background: url(bg.jpg);
+	padding: 2% 2% 2% 2%;
+	text-align: center;
+	color: crimson;
+	text-shadow:tan 2px 2px 3px;
+	border-radius:  20px 20px 20px 20px;
+  }
+  h1:hover {
+	color: deeppink;
+	text-shadow:tan 5px 5px 2px;
+	transition: .7s;
+  }
+  p {
+	margin-left: 7%;
+	margin-right: 7%;
+	margin-top: 2%;
+	padding: 2% 2% 2% 2%;
+	font-size: 110%;
+	text-align: center;
+  }
+  #info{
+	color: white; 
+	text-shadow:tan 2px 2px 3px;
+	text-align: left;
+	margin-left: 30%;
+  }
+  #image{
+	width:400px;
+	height:400px;
+	border-radius: 2%;
+	border: 2px solid darkgreen;
+
+  }
+  img:hover {
+	transform: scale(1.1, 1.1);
+	transition:0.5s;
+  }
+  ul {
+	background: url(bg.jpg);
+	color: #336699;
+	border-radius:  10px 10px 10px 10px;
+	padding: 2% 2% 2% 2%;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 2%;
+	padding: 2% 2% 2% 2%;
+	font-size: 14pt; 
+	border: 2px solid darkgreen;
+	text-shadow:tan 2px 2px 3px;
+	}
+  b {
+	color: magenta;
+	text-shadow:tan 2px 2px 3px;
+  }
+  a{
+	color:crimson;
+	text-shadow:black 2px 2px 3px;
+  }
+  a:hover{
+	color: deeppink;
+	transition: .7s;
+	text-shadow:black 7px 7px 3px;
+  }
+  a:active {
+	color: purple;
+	transition: .5s;
+	text-shadow:black 7px 7px 3px;
+  }
+  h3 {
+	color: gold;
+	font-size: 24pt;
+	text-align:center;
+	text-shadow:black 3px 3px 4px;
+  }
+
+  #mrnobody {
+	margin-top: 2%;
+	width:800px;
+	height:400px;
+	border-radius: 2%;
+	border: 2px solid darkgreen;
+  }
+  #black {
+	color: indianred;
+	text-shadow:tan 2px 2px 3px;
+	background: url(bg.jpg);
+	border-radius:  20px 10px 5px 0;
+	border: 2px solid darkgreen;
+  }
+  #bigfish {
+	margin-top: 2%;
+	width:400px;
+	height:500px;
+	border-radius: 2%;
+	border: 2px solid darkgreen;
+  }
+  
