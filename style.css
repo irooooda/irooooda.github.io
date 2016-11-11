@@ -11,11 +11,11 @@ body {
 	color: crimson;
 	text-shadow:tan 2px 2px 3px;
 	border-radius:  20px 20px 20px 20px;
+		transition: .7s;
   }
   h1:hover {
 	color: deeppink;
 	text-shadow:tan 5px 5px 2px;
-	transition: .7s;
   }
   p {
 	margin-left: 7%;
@@ -38,9 +38,12 @@ body {
 	border: 2px solid darkgreen;
 
   }
+   img {
+    transition:1s;
+  }
   img:hover {
-	transform: scale(1.1, 1.1);
-	transition:0.5s;
+  transform: scale(1.1, 1.1);
+	
   }
   ul {
 	background: url(bg.jpg);
@@ -62,15 +65,14 @@ body {
   a{
 	color:crimson;
 	text-shadow:black 2px 2px 3px;
+	transition: .7s;
   }
   a:hover{
 	color: deeppink;
-	transition: .7s;
 	text-shadow:black 7px 7px 3px;
   }
   a:active {
 	color: purple;
-	transition: .5s;
 	text-shadow:black 7px 7px 3px;
   }
   h3 {
