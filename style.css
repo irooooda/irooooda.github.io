@@ -55,8 +55,8 @@ body {
 	margin-left: 35%;
 	margin-right: 35%;
 	margin-top: 2%;
-	padding: 2% 2% 2% 2%;
-	font-size: 14pt; 
+	padding: 3% 3% 3% 3%;
+	font-size: 14pt;
 	text-shadow:#102360 2px 0px 10px;
 	background: url(bg.jpg);
 	border-radius:  20px 10px 5px 0;
@@ -81,14 +81,14 @@ body {
   }
   h3 {
 	color: tan;
-	font-size: 24pt;
+	font-size: 28pt;
 	text-align:center;
 	text-shadow:black 3px 3px 4px;
 	transition: .7s;
   }
   h3:hover {
 	color: deeppink;
-	font-size: 24pt;
+	font-size: 30pt;
 	text-align:center;
 	text-shadow:black 3px 3px 4px;
   }
